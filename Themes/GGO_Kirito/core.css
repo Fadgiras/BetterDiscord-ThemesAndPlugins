@@ -18,6 +18,7 @@ The 2 items above are not owned by me, They go to there respected owners
     --secondary1-colour: rgba(50,50,50,0.3);
     --secondary2-colour: rgba(100,100,100,0.5);
     --secondary3-colour: rgba(0,0,0,0.5);
+    --notification-colour: rgba(197, 0, 0, 0.85);
 
     --transparency-1: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
 	--transparency-2: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
@@ -75,7 +76,7 @@ The 2 items above are not owned by me, They go to there respected owners
 
 	#app-mount .numberBadge-2s8kKX {background-color: var(--primary1-colour)!important}
 
-	#app-mount .pill-31IEus .item-2hkk8m {background-color: var(--secondary1-colour)}
+	#app-mount .pill-31IEus .item-2hkk8m {background-color: var(--notification-colour)}
 	#app-mount #bd-pub-li .wrapper-25eVIn {background-color: var(--secondary1-colour)}
 
 	.folder .wrapper-1BJsBx {background-color: var(--secondary2-colour)!important; transition: background-color .15s ease-out;}
